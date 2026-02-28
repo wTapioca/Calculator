@@ -1,0 +1,23 @@
+/* Estilo do site */
+
+body {
+    background-color:rgb(48, 48, 48)
+}
+
+hr {
+    border-color:rgba(48, 48, 48, 0)
+}
+
+/* Estilo dos botões e display */
+
+button {
+    width: 50px;
+    height: 50px;
+    background-color:rgb(150, 150, 150);
+}
+
+input {
+    width: 205px;
+    height: 25px;
+    background-color:rgb(150, 150, 150);
+}
